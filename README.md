@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @borngenius610
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and python
 - 💞️ I’m willing to learn anything from anyone
 
 <!---
